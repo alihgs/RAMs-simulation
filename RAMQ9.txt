@@ -1,0 +1,4 @@
+ADD(0,0,r2)
+SUB(r2,0,r3)
+JUMP(-2)
+MULT(r3,3,r1)
